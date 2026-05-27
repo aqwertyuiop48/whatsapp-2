@@ -45,6 +45,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Firebase rules link:
 https://console.firebase.google.com/project/whatsapp-2-38bd4/firestore/rules
+(or)
+https://console.firebase.google.com/project/whatsapp-2-38bd4/firestore/databases/-default-/security/rules
 
 ## Deploy on Vercel
 
