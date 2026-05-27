@@ -48,6 +48,9 @@ https://console.firebase.google.com/project/whatsapp-2-38bd4/firestore/rules
 (or)
 https://console.firebase.google.com/project/whatsapp-2-38bd4/firestore/databases/-default-/security/rules
 
+## Deployment logs
+- https://console.cloud.google.com/logs/query;cursorTimestamp=2026-05-27T09:32:43.269952Z;histogramBreakdownField=severity;startTime=2023-02-01T10:21:52.167Z;endTime=2026-05-27T10:21:52.167Z?referrer=search&project=whatsapp-2-38bd4
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
